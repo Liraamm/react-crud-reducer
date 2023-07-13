@@ -1,0 +1,137 @@
+{
+  "contacts": [
+    {
+      "id": 2,
+      "name": "Jane",
+      "surname": "Smith",
+      "image": "https://example.com/jane_smith.jpg",
+      "phoneNumber": "0987654321"
+    },
+    {
+      "id": 3,
+      "name": "Michael",
+      "surname": "Johnson",
+      "image": "https://example.com/michael_johnson.jpg",
+      "phoneNumber": "5551234567"
+    },
+    {
+      "id": 4,
+      "name": "Emily",
+      "surname": "Davis",
+      "image": "https://example.com/emily_davis.jpg",
+      "phoneNumber": "9876543210"
+    },
+    {
+      "id": 5,
+      "name": "Robert",
+      "surname": "Anderson",
+      "image": "https://example.com/robert_anderson.jpg",
+      "phoneNumber": "1234509876"
+    },
+    {
+      "id": 6,
+      "name": "Sarah",
+      "surname": "Wilson",
+      "image": "https://example.com/sarah_wilson.jpg",
+      "phoneNumber": "5432167890"
+    },
+    {
+      "id": 7,
+      "name": "David",
+      "surname": "Martinez",
+      "image": "https://example.com/david_martinez.jpg",
+      "phoneNumber": "1357924680"
+    },
+    {
+      "id": 8,
+      "name": "Jessica",
+      "surname": "Taylo",
+      "image": "https://example.com/jessica_taylor.jpg",
+      "phoneNumber": "2468135790"
+    },
+    {
+      "id": 9,
+      "name": "Daniel",
+      "surname": "Lee",
+      "image": "https://example.com/daniel_lee.jpg",
+      "phoneNumber": 987654321
+    },
+    {
+      "id": 10,
+      "name": "Megan",
+      "surname": "Clark",
+      "image": "https://example.com/megan_clark.jpg",
+      "phoneNumber": "1234567890"
+    },
+    {
+      "id": 11,
+      "name": "Christopher",
+      "surname": "White",
+      "image": "https://example.com/christopher_white.jpg",
+      "phoneNumber": "0987654321"
+    },
+    {
+      "id": 12,
+      "name": "Olivia",
+      "surname": "Allen",
+      "image": "https://example.com/olivia_allen.jpg",
+      "phoneNumber": "5551234567"
+    },
+    {
+      "id": 13,
+      "name": "Matthew",
+      "surname": "Hall",
+      "image": "https://example.com/matthew_hall.jpg",
+      "phoneNumber": "9876543210"
+    },
+    {
+      "id": 14,
+      "name": "Sophia",
+      "surname": "Harris",
+      "image": "https://example.com/sophia_harris.jpg",
+      "phoneNumber": "1234509876"
+    },
+    {
+      "id": 15,
+      "name": "Andrew",
+      "surname": "King",
+      "image": "https://example.com/andrew_king.jpg",
+      "phoneNumber": "5432167890"
+    },
+    {
+      "id": 16,
+      "name": "Lauren",
+      "surname": "Young",
+      "image": "https://example.com/lauren_young.jpg",
+      "phoneNumber": "1357924680"
+    },
+    {
+      "id": 17,
+      "name": "Ryan",
+      "surname": "Green",
+      "image": "https://example.com/ryan_green.jpg",
+      "phoneNumber": "2468135790"
+    },
+    {
+      "id": 18,
+      "name": "Grace",
+      "surname": "Baker",
+      "image": "https://example.com/grace_baker.jpg",
+      "phoneNumber": "9876543210"
+    },
+    {
+      "id": 20,
+      "name": "Ava",
+      "surname": "Carter",
+      "image": "https://example.com/ava_carter.jpg",
+      "phoneNumber": "0987654321"
+    },
+    {
+      "name": "srdf",
+      "surname": "er",
+      "image": "https://media.wired.com/photos/6425ef2984ccb2dd1d2ac6cb/16:9/w_2399,h_1349,c_limit/asuszenbooks13oled_GEAR-Featured.jpg",
+      "phoneNumber": 3456,
+      "id": 21
+    }
+  ]
+}
